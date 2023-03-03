@@ -1,8 +1,4 @@
-╔══════════════════════════════════════════════╗
-║                                              ║
-║          𝗥𝗢𝗕𝗟𝗢𝗫 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+## Roblox Username Generator
 
 This is a Python script that generates random Roblox usernames and checks if they are available on the platform. Valid usernames are saved to a text file for later use.
 
