@@ -1,27 +1,26 @@
-#Roblox Username Generator
-This is a simple Python script that generates random usernames and checks if they are available on Roblox. If a username is available, it will be written to a file named usernames.txt.
+╔══════════════════════════════════════════════╗
+║                                              ║
+║          𝗥𝗢𝗕𝗟𝗢𝗫 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
-#Installation
-Clone the repository: git clone https://github.com/your-username/roblox-username-generator.git
-Install the required packages: pip install -r requirements.txt
-#Usage
-Open a terminal or command prompt in the repository directory.
-Run the script: python username_generator.py
-Enter the number of usernames you want to generate and check.
-The script will output whether each generated username is valid or not and write the valid usernames to usernames.txt.
-#Example Output
-perl
-Copy code
-How many checks do you want? 10
-L21FN is valid! :D
-H2QO5 no work :(
-QW04D no work :(
-K92X5 is valid! :D
-6TGOU no work :(
-Z6G57 no work :(
-2D6RM no work :(
-JNFO9 no work :(
-UKF18 no work :(
-Y7Z1N no work :(
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This is a Python script that generates random Roblox usernames and checks if they are available on the platform. Valid usernames are saved to a text file for later use.
+
+## Usage
+
+1. Install Python 3.x on your computer if it's not already installed.
+2. Download the `generator.py` file.
+3. Open a terminal or command prompt and navigate to the directory where the `generator.py` file is located.
+4. Run the script using the command `python generator.py`.
+5. Enter the number of checks you want to perform when prompted.
+6. The script will generate and check usernames, displaying whether they are valid or not. Valid usernames will be saved to a text file named `usernames.txt`.
+
+Note: The script adds a delay of 0.1 seconds between each username check to avoid overwhelming the Roblox server.
+
+## Disclaimer
+
+This script is for educational purposes only. Use it at your own risk. The author is not responsible for any consequences resulting from the use of this script.
+
+## Credits
+
+This script was created by Puppet#1111
